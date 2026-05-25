@@ -1,0 +1,6 @@
+{
+  "name": "Second Brain",
+  "description": "Asisten produktivitas, pencatatan keuangan harian, catatan ide, jurnal harian refleksi, analisis tren cerdas, kustomisasi visual & asisten pintar AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
